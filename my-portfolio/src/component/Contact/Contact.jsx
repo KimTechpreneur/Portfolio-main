@@ -17,9 +17,10 @@ const Contact = () => {
 const form = useRef();
 const sendEmail = (e) => {
 e.preventDefault();
-// emailjs.sendForm('service_5vuauza', 'template_fdnnl56', form.current,
-// 'EmSdUNQzQuxkUqGWx')
-e.target.reset()
+
+emailjs.sendForm('service_5vuauza', 'template_fdnnl56', form.current,
+'EmSdUNQzQuxkUqGWx')
+
 .then((result) => {
 console.log(result.text)
 },(error) =>{
