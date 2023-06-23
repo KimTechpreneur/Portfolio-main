@@ -2,7 +2,7 @@
 
 # dependencies
 C:\Users\Administrator\Desktop\KIIIIIIIIIIIIIIM\Portfolio-main\node_modules
-/node_modules
+# /node_modules
 /.pnp
 .pnp.js
 
@@ -24,3 +24,4 @@ C:\Users\Administrator\Desktop\KIIIIIIIIIIIIIIM\Portfolio-main\node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+node_modules
