@@ -64,7 +64,7 @@ target='_blank'>Whatsapp me</a>
 placeholder='your message' required></textarea>
 </div>
 <div>
-<button type="submit" className='btn btn-primary'>send message</button>
+<button type="submit" className='btn btn-primary'>Send message </button>
 </div>
 </form>
 </div>
